@@ -47,3 +47,7 @@ Conversor de Moedas
 Escolha uma opção: 4
 Digite o valor: 50
 50,00 USD é equivalente a 346,04 BOB
+
+
+Autor: Stéphanne Ferreira /
+GitHub: stefsfva
