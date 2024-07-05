@@ -1,4 +1,5 @@
-Conversor de Moedas
+CONVERSOR DE MOEDAS SFVA
+
 Este é um conversor de moedas desenvolvido em Java que permite a conversão de diversas moedas com base nas taxas de câmbio obtidas em tempo real de uma API.
 
 Funcionalidades
